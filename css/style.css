@@ -1,0 +1,32 @@
+title{
+  color:red;
+  }
+body{
+background-color: #fff2df;
+}
+h1{
+  color:#ff1a1a;
+}
+h2{
+  color:#c83349;
+}
+h3{
+  color:#ff7b25;
+}
+hr{
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color:red;
+  border-width:5px;
+  width:10%;
+}
+.SCompany{
+  background-color:#c83349;
+}
+.circular{
+  border-radius:100%
+}
+img:hover{
+  background-color:gold;
+}
